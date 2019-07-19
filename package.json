@@ -1,0 +1,38 @@
+{
+  "name": "generated-wallet",
+  "version": "1.0.0",
+  "description": "Generating simple wallet with only one seed",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonassunandar/generated-wallet.git"
+  },
+  "keywords": [
+    "wallet",
+    "ethereum",
+    "web3"
+  ],
+  "dependencies": {
+    "web3": "1.0.0-beta.36"
+  },
+  "authors": [
+    {
+      "name":"Arkan Gilang",
+      "email":"",
+      "website": ""
+    },
+    {
+      "name": "Jonas Aditya Sunandar",
+      "email": "jonassunandar@yahoo.com",
+      "website": "https://github.com/jonassunandar"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonassunandar/generated-wallet/issues"
+  },
+  "homepage": "https://github.com/jonassunandar/generated-wallet#readme"
+}
