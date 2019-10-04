@@ -1,6 +1,6 @@
 {
   "name": "generated-wallet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generating simple wallet with only one seed",
   "main": "src/index.js",
   "scripts": {
